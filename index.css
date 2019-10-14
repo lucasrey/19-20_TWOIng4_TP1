@@ -16,7 +16,8 @@
 		justify-content: center;
 		vertical-align: top;
 		flex: 1;
-		padding-left: 30px;
+        padding-left: 30px;
+        
 	}
 
 	.lisere
@@ -124,5 +125,6 @@
 	h2
 	{
 		text-shadow: 3px 3px 1px silver;
-	}
+    }
+    
 }
